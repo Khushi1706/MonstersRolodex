@@ -1,0 +1,17 @@
+.search {
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding: 10px;
+    width: 400px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    border-radius: 25px;
+}
+
+#searchBoxTop::placeholder {
+    font-family: 'Baloo Chettan 2',
+        cursive;
+    font-size: 20px;
+    color: #0ccac4;
+}
